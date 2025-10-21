@@ -1,6 +1,6 @@
-<center>
+<div align='center'>
 <h3> Repositório de estudo das aulas de banco de dados </h3>
-</center>
+</div>
 
 <br>
 
